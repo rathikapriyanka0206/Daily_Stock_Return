@@ -1,9 +1,3 @@
-![R](https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r)
-
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
 
 stock_data<-read.csv(file.choose())
 close<-stock_data$Close
