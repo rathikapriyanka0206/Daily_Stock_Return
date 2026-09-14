@@ -13,8 +13,7 @@ Calculates and visualizes daily percentage returns from a stock's closing price 
 - Reads closing prices from CSV
 - Computes daily % return: (Close[t] - Close[t-1]) / Close[t-1] × 100
 - Plots the return series, highlighting the best and worst trading day
-## Sample Output
-![Daily Returns Plot](output/returns_plot.png)
+
 
 ## How to run
 1. Open daily_returns.R in RStudio
